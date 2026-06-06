@@ -7,24 +7,24 @@
   "observability": {
     "enabled": true
   },
-  "keep_vars": true,
+ "keep_vars": true,
   "routes": [
     {
-      "pattern": "acesiki.dpdns.org",
+      "pattern": "DOMAIN_PLACEHOLDER",
       "custom_domain": true
     }
   ],
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "0fb44692-771a-4da2-abaf-28f8f058271b",
+      "database_id": "D1_DATABASE_ID",
       "migrations_dir": "migrations",
       "remote": true
     }
   ],
   "r2_buckets": [
     {
-      "bucket_name": "r2-blog",
+      "bucket_name": "bucket-name-placeholder",
       "binding": "R2",
       "remote": true
     }
@@ -32,7 +32,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "64be7d4cac8948d7adb896e651169a41",
+      "id": "KV_NAMESPACE_ID",
       "remote": true
     },
     {
