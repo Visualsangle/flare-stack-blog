@@ -21,7 +21,7 @@
       "migrations_dir": "migrations",
       "remote": true
     }
-  ],
+  ], 
   "r2_buckets": [
     {
       "bucket_name": "bucket-name-placeholder",
