@@ -12,7 +12,7 @@
     {
       "pattern": "acesiki.dpdns.org",
       "custom_domain": true
-    }
+    } 
   ],
   "d1_databases": [
     {
@@ -21,7 +21,7 @@
       "migrations_dir": "migrations",
       "remote": true
     }
-  ],
+  ]，
   "r2_buckets": [
     {
       "bucket_name": "r2-blo",
